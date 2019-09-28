@@ -1,2 +1,2 @@
 Have a good time!
-Add git commands!
+Add git commands! git add
